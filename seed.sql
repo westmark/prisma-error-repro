@@ -1,0 +1,1 @@
+INSERT INTO "MyModel" ("int_array") VALUES (ARRAY[1, NULL, 3]);
